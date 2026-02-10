@@ -19,12 +19,15 @@ A retail manager wants to see total sales for each day.
 
 ## Table
 
-```Sales(SaleDate, Amount)```
+```
+Sales(SaleDate, Amount)
+```
 
 ## SQL Solution
-```SELECT 
-    SaleDate,
-    SUM(Amount) AS TotalSales
+```
+SELECT 
+SaleDate,
+SUM(Amount) AS TotalSales
 FROM Sales
 GROUP BY SaleDate
 ORDER BY SaleDate;
