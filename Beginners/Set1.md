@@ -1,6 +1,6 @@
 
 
-#1 Daily Sales Monitoring
+# 1 Daily Sales Monitoring
 ## Business Context
 
 A retail manager wants to see total sales for each day.
