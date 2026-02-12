@@ -93,8 +93,9 @@ Now you apply SQL / Python / Power BI / Excel.
 
 This is execution.
 
-```
+
 Example (SQL)
+```
 SELECT 
     Quarter,
     SUM(Revenue)
