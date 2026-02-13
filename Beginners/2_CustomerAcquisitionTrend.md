@@ -16,10 +16,10 @@ How many new customers were acquired this month?
 
 ## Step-by-Step Approach
 
-### Step 1: Filter signups in current month
-### Step 2: Count distinct customers
-### Step 3: Compare with previous month
-### Step 4: Break down by channel
+Step 1: Filter signups in current month
+Step 2: Count distinct customers
+Step 3: Compare with previous month
+Step 4: Break down by channel
 
 ## Technical Solution
 
