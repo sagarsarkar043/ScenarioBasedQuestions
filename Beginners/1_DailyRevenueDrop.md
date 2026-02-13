@@ -18,10 +18,10 @@ Why did revenue drop yesterday?
 
 ## 4. Step-by-Step Approach (Thinking Process)
 
-Step 1: Compare yesterday vs last 7-day average
-Step 2: Check if drop is region-specific
-Step 3: Check if specific product caused decline
-Step 4: Check if quantity or price dropped
+Step 1: Compare yesterday vs last 7-day average<br>
+Step 2: Check if drop is region-specific<br>
+Step 3: Check if specific product caused decline<br>
+Step 4: Check if quantity or price dropped<br>
 
 ## 5. Technical / Analytical Solution
 
